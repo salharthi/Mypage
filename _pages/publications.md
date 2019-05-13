@@ -98,4 +98,3 @@ Zachary O. Toups, William A. Hamilton, and <strong>Sultan A. Alharthi</strong
 
 <hr />
 
-</font>
