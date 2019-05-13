@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sultan Alharthi"
-  avatar           : "https://pixl.nmsu.edu/files/2019/03/SultanCLUNew.jpg"
+  #avatar           : "https://pixl.nmsu.edu/files/2019/03/SultanCLUNew.jpg"
   bio              : "HCI Researcher"
   location         : "Las Cruces, NM"
   employer         :
