@@ -83,7 +83,7 @@ author:
   name             : #"Sultan Alharthi"
   avatar           : "https://salharthi.github.io/Mypage/images/photo2.jpeg"
   bio              : #"HCI Researcher"
-  location         : "Las Cruces, NM"
+  location         : #"Las Cruces, NM"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rqLNHCIAAAAJ&hl=en"
