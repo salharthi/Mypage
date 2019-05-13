@@ -10,7 +10,7 @@ author_profile: false
 
 <strong>Journals:</strong>
 <ol>
- 	<li>Z O. Toups, Nick LaLone, <strong>Sultan A. Alharthi</strong>, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>. [In press]
+ 	<li>Z O. Toups, Nick LaLone, <strong>Sultan A. Alharthi</strong>, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. To appear in <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>.
 
 <hr />
 
@@ -18,7 +18,7 @@ author_profile: false
 </ol>
 <strong>Conferences:</strong>
 <ol>
- 	<li><strong>Sultan A. Alharthi</strong>, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2019. Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?. In <em>Proceedings of the 2019 Collective Intelligence Conference (CI '19)</em>. ACM, New York, NY, USA. [In press]</li>
+ 	<li><strong>Sultan A. Alharthi</strong>, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2019. Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?. To appear in <em>Proceedings of the 2019 Collective Intelligence Conference (CI '19)</em>. ACM, New York, NY, USA.</li>
  	<li>
 
 <hr />
