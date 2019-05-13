@@ -10,7 +10,7 @@ redirect_from:
 
 <font size="-1">
 
-<p style="text-align: justify;">I am a Human-Computer Interaction researcher and a PhD Candidate at New Mexico State University. My research lies at the intersection of HCI, CSCW, and Game Design. I investigate the ways people engage in social activities in physical, virtual, and mixed spaces, such as distributed multiplayer games, online learning environments, and disaster response training simulations. My work explores new approaches to support collective sensemaking, planning, team awareness, and communication in distributed environments. I incorporate fieldwork and observation to understand existing contexts and practices; design novel collaboration interfaces and game mechanics; and test these designs through mixed methods studies in the lab and in the field.</p>
+I am a Human-Computer Interaction researcher and a PhD Candidate at New Mexico State University. My research lies at the intersection of HCI, CSCW, and Game Design. I investigate the ways people engage in social activities in physical, virtual, and mixed spaces, such as distributed multiplayer games, online learning environments, and disaster response training simulations. My work explores new approaches to support collective sensemaking, planning, team awareness, and communication in distributed environments. I incorporate fieldwork and observation to understand existing contexts and practices; design novel collaboration interfaces and game mechanics; and test these designs through mixed methods studies in the lab and in the field.
 
 <hr />
 
@@ -23,6 +23,6 @@ redirect_from:
 
 Z O. Toups, Nick LaLone, <strong>Sultan A. Alharthi</strong>, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. To appear in <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>. <br><br>
 
-<strong>Sultan A. Alharthi</strong>, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2019. Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?. To appear in <em>Proceedings of the 2019 Collective Intelligence Conference (CI '19)</em>. ACM, New York, NY, USA. <br>
+<strong>Sultan A. Alharthi</strong>, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2019. Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?. To appear in <em>Proceedings of the 2019 Collective Intelligence Conference (CI '19)</em>. ACM. <br>
 
 <hr />
