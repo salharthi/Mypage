@@ -11,17 +11,17 @@ redirect_from:
 EDUCATION
 <hr />
 
-Ph.D. Computer Science. August 2019
-Department of Computer Science, New Mexico State University
-Thesis: “Distributed Collaboration in Work and Play: Toward an Integrated Conceptual Framework”
-Advisor: Zachary O. Toups
+<li>Ph.D. Computer Science. August 2019</li>
+<li>Department of Computer Science, New Mexico State University</li>
+<li>Thesis: “Distributed Collaboration in Work and Play: Toward an Integrated Conceptual Framework”</li>
+<li>Advisor: Zachary O. Toups</li>
 
-M.Sc. Computer Science. May 2010
-Department of Computer Science, California Lutheran University
-Project: “Designing Decision Support Systems for Outdoor Scouting Activities”
-Advisor: Myungsook Klassen
+<li>M.Sc. Computer Science. May 2010</li>
+<li>Department of Computer Science, California Lutheran University</li>
+<li>Project: “Designing Decision Support Systems for Outdoor Scouting Activities”</li>
+<li>Advisor: Myungsook Klassen</li>
 
-B.Sc. Computer Science. May 2007
-Department of Computer Science, Taif University
+<li>B.Sc. Computer Science. May 2007</li>
+<li>Department of Computer Science, Taif University</li>
 
 <hr />
