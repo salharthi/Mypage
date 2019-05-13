@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
+<font size="-1">
 <hr />
 
 <strong>Journals:</strong>
@@ -96,3 +97,5 @@ Zachary O. Toups, William A. Hamilton, and <strong>Sultan A. Alharthi</strong
 <strong>Sultan A. Alharthi</strong>, and Zachary O. Toups. 2018. Re-build-ing Boundaries: The Roles of Boundaries in Mixed Reality Play. In HCI Outdoors Workshop at CHI 2018, Montréal, Québec, Canada. [ <a href="https://dept-wp.nmsu.edu/pixl/files/2018/05/HCI_Outdoors_Workshop.pdf">full text</a> ]
 
 <hr />
+
+</font>
