@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sultan Alharthi"
+  name             : #"Sultan Alharthi"
   avatar           : "https://salharthi.github.io/Mypage/images/photo2.jpeg"
-  bio              : "HCI Researcher"
+  bio              : #"HCI Researcher"
   location         : "Las Cruces, NM"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
