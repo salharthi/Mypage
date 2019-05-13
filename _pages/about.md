@@ -15,6 +15,7 @@ redirect_from:
 <p style="text-align: justify;"><strong>Research Interest:</strong> distributed collaboration, team awareness, mixed reality, <span class="lt-line-clamp__line lt-line-clamp__line--last">game design, software learnability, learning systems, </span>serious games, gamification, player/<span class="lt-line-clamp__line">user experience,</span> and <span class="lt-line-clamp__line lt-line-clamp__line--last">wearable technology.</span></p>
 
 <strong>RECENT PUBLICATIONS:</strong>
+(see <a href="https://salharthi.github.io/Mypage/publications/">Research</a> for a list of all publications).
 
 Z O. Toups, Nick LaLone, <strong>Sultan A. Alharthi</strong>, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. To appear in <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>.
 
