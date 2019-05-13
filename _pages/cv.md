@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<font size="-1">
+
 <hr />
 <strong>Education</strong>
 <hr />
