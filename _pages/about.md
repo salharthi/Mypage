@@ -21,8 +21,8 @@ redirect_from:
 <strong>RECENT PUBLICATIONS:</strong> <br> 
 (see <a href="https://salharthi.github.io/Mypage/publications/">Publications</a> for a full list) <br><br>
 
-<p style="line-height:140%">Z O. Toups, Nick LaLone, <strong>Sultan A. Alharthi</strong>, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. To appear in <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>. <br><br>
+<p style="line-height:140%"><strong>Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces</strong><br> Z O. Toups, Nick LaLone, <strong>Sultan A. Alharthi</strong>, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019 (in press). Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. To appear in <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>. <br><br>
 
-<p style="line-height:140%"><strong>Sultan A. Alharthi</strong>, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2019. Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?. To appear in <em>Proceedings of the 2019 Collective Intelligence Conference (CI '19)</em>. ACM. <br>
+<p style="line-height:140%"><strong>Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?</strong><br><strong>Sultan A. Alharthi</strong>, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2019 (in press). Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?. To appear in <em>Proceedings of the 2019 Collective Intelligence Conference (CI '19)</em>. ACM. <br>
 
 <hr />
