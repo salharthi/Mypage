@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <hr />
-EDUCATION
+<strong>Education</strong>
 <hr />
 
 Ph.D. Computer Science. August 2019 <br>
