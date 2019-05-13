@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+div.a {
+  line-height: normal;
+}
+</style>
+  
 <font size="-1">
 
-I am a Human-Computer Interaction researcher and a PhD Candidate at New Mexico State University. My research lies at the intersection of HCI, CSCW, and Game Design. I investigate the ways people engage in social activities in physical, virtual, and mixed spaces, such as distributed multiplayer games, online learning environments, and disaster response training simulations. My work explores new approaches to support collective sensemaking, planning, team awareness, and communication in distributed environments. I incorporate fieldwork and observation to understand existing contexts and practices; design novel collaboration interfaces and game mechanics; and test these designs through mixed methods studies in the lab and in the field.
+<div class="a">I am a Human-Computer Interaction researcher and a PhD Candidate at New Mexico State University. My research lies at the intersection of HCI, CSCW, and Game Design. I investigate the ways people engage in social activities in physical, virtual, and mixed spaces, such as distributed multiplayer games, online learning environments, and disaster response training simulations. My work explores new approaches to support collective sensemaking, planning, team awareness, and communication in distributed environments. I incorporate fieldwork and observation to understand existing contexts and practices; design novel collaboration interfaces and game mechanics; and test these designs through mixed methods studies in the lab and in the field.
 
 <hr />
 
