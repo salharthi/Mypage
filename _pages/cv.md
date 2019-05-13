@@ -11,10 +11,10 @@ redirect_from:
 EDUCATION
 <hr />
 
-Ph.D. Computer Science. August 2019
-Department of Computer Science, New Mexico State University
-Thesis: “Distributed Collaboration in Work and Play: Toward an Integrated Conceptual Framework”
-Advisor: Z O. Toups
+Ph.D. Computer Science. August 2019 <br>
+Department of Computer Science, New Mexico State University <br>
+Thesis: “Distributed Collaboration in Work and Play: Toward an Integrated Conceptual Framework” <br>
+Advisor: Z O. Toups <br>
 
 M.Sc. Computer Science. May 2010
 Department of Computer Science, California Lutheran University
