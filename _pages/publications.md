@@ -9,8 +9,8 @@ author_profile: false
 <hr />
 
 <strong>Journals:</strong>
-<ol>
- 	<li><strong>Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces</strong><br>Z O. Toups, Nick LaLone, <strong>Sultan A. Alharthi</strong>, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. To appear in <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>.
+
+<strong>Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces</strong><br>Z O. Toups, Nick LaLone, <strong>Sultan A. Alharthi</strong>, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. To appear in <em>ACM Transactions on Computer-Human Interaction (ToCHI)
 
 <hr />
 
