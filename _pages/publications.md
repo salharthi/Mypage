@@ -51,7 +51,7 @@ author_profile: false
 
 <hr />
 
-<strong>Designing Future Disaster Response Team Wearables from a Grounding in Practice</strong><br><u>Sultan A. Alharthi</u>, Hitesh Nidhi Sharma, Sachin Sunka, Igor Dolgov, and Zachary O. Toups. 2018. Designing Future Disaster Response Team Wearables from a Grounding in Practice. In <em>Proceedings of APA Technology, Mind, and Society (TechMindSociety '18).</em> Article 1, 6 pages. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2018:DFD:3183654.3183662">bib</a> | <a href="http://dx.doi.org/10.1145/3183654.3183662" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N652626" style="color:black">full text via authorizer</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/02/2018_TMS_Icehouse.pdf" style="color:black">full text</a> ]</li>
+<strong>Designing Future Disaster Response Team Wearables from a Grounding in Practice</strong><br><u>Sultan A. Alharthi</u>, Hitesh Nidhi Sharma, Sachin Sunka, Igor Dolgov, and Zachary O. Toups. 2018. Designing Future Disaster Response Team Wearables from a Grounding in Practice. In <em>Proceedings of APA Technology, Mind, and Society (TechMindSociety '18).</em> Article 1, 6 pages. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2018:DFD:3183654.3183662" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3183654.3183662" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N652626" style="color:black">full text via authorizer</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/02/2018_TMS_Icehouse.pdf" style="color:black">full text</a> ]</li>
  	<li>
 
 <hr />
