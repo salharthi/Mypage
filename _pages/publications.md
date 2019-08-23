@@ -21,7 +21,8 @@ author_profile: false
 <br>
 <strong>Full Conference Papers:</strong>
 <ol>
-<strong>Investigating the Impact of Annotation Interfaces on Player Performance in Distributed Multiplayer Games</strong><br>Sultan A. Alharthi, Ruth C. Torres, Ahmed S. Khalaf, Zachary O. Toups, Igor Dolgov, and Lennart E. Nacke. 2018. Investigating the Impact of Annotation Interfaces on Player Performance in Distributed Multiplayer Games. In <em>Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems</em> <em>(CHI '18)</em>. Article 314, 13 pages. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2018:IIA:3173574.3173888" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3173574.3173888" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N652628" style="color:black">full text via authorizer</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/02/planning.pdf" style="color:black">full text</a> ]</li>
+ 
+<li><strong>Investigating the Impact of Annotation Interfaces on Player Performance in Distributed Multiplayer Games</strong><br>Sultan A. Alharthi, Ruth C. Torres, Ahmed S. Khalaf, Zachary O. Toups, Igor Dolgov, and Lennart E. Nacke. 2018. Investigating the Impact of Annotation Interfaces on Player Performance in Distributed Multiplayer Games. In <em>Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems</em> <em>(CHI '18)</em>. Article 314, 13 pages. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2018:IIA:3173574.3173888" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3173574.3173888" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N652628" style="color:black">full text via authorizer</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/02/planning.pdf" style="color:black">full text</a> ]</li>
 <li>
  
 <hr />
@@ -65,7 +66,7 @@ author_profile: false
 
 <strong>Extended Abstracts:</strong>
 <ol>
-<strong>Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?</strong><br>Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2019. Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?. To appear in <em>Proceedings of the 2019 Collective Intelligence Conference (CI '19)</em>. ACM, New York, NY, USA.</li>
+<li><strong>Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?</strong><br>Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2019. Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?. To appear in <em>Proceedings of the 2019 Collective Intelligence Conference (CI '19)</em>. ACM, New York, NY, USA.</li>
 <li>
 
 <hr />
@@ -74,7 +75,7 @@ author_profile: false
 
 <hr />
 
-<strong>Toward Understanding the Effects of Cognitive Styles on Collaboration in Multiplayer Games</strong><br>Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Zachary O. Toups. 2018. Toward Understanding the Effects of Cognitive Styles on Collaboration in Multiplayer Games. In <em>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '18 Companion)</em>. ACM, New York, NY, USA. [ <a href="https://doi.org/10.1145/3272973.3274047" style="color:black">doi</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/10/CognitiveStyles.pdf" style="color:black">full text</a>]</li>
+<li><strong>Toward Understanding the Effects of Cognitive Styles on Collaboration in Multiplayer Games</strong><br>Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Zachary O. Toups. 2018. Toward Understanding the Effects of Cognitive Styles on Collaboration in Multiplayer Games. In <em>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '18 Companion)</em>. ACM, New York, NY, USA. [ <a href="https://doi.org/10.1145/3272973.3274047" style="color:black">doi</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/10/CognitiveStyles.pdf" style="color:black">full text</a>]</li>
 <li>
 
 <hr />
