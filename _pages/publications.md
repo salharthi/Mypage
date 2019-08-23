@@ -84,10 +84,9 @@ author_profile: false
 
 
 </li>
-</ol>
 <hr />
 
-
+<br>
 <strong>Books:</strong>
 <ol>
 <li><strong>The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens</strong><br>Sultan A. Alharthi, Zachary O. Toups, Olaa Alsaedi, Joshua Tanenbaum, &amp; Jessica Hammer. 2018. The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens<i>. Pittsburgh, PA: Carnegie Mellon University: ETC Press. </i>[ <a href="http://press.etc.cmu.edu/index.php/product/the-pleasure-of-playing-less/" style="color:black">full text</a> ]
@@ -97,7 +96,7 @@ author_profile: false
 </ol>
 <hr />
 
-
+<br>
 <strong>Workshops:</strong>
 <ol>
 <li><strong>Collaborative Mixed Reality Games</strong><br>Sultan A. Alharthi, Katta Spiel, William A. Hamilton, Elizabeth Bonsignore, and Zachary O. Toups. 2018. Collaborative Mixed Reality Games. In <em>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '18 Companion)</em>. ACM, New York, NY, USA. [ <a href="https://doi.org/10.1145/3272973.3273013" style="color:black">doi</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/09/MixedReality.pdf" style="color:black">full text</a>]</li>
