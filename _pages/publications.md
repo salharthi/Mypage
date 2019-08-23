@@ -80,15 +80,23 @@ author_profile: false
 
 <hr />
 
-<strong>The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces</strong><br>Sultan A. Alharthi, Ruth Torres, Ahmed Khalaf, and Zachary O. Toups. 2017. The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces. In <em>Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '17 Extended Abstracts)</em>. 615--620. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2017:MEC:3130859.3130864" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3130859.3130864" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N40170" style="color:black">full text via authorizer</a> ]</li>
+<strong>The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces</strong><br>Sultan A. Alharthi, Ruth Torres, Ahmed Khalaf, and Zachary O. Toups. 2017. The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces. In <em>Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '17 Extended Abstracts)</em>. 615--620. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2017:MEC:3130859.3130864" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3130859.3130864" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N40170" style="color:black">full text via authorizer</a> ]
 
+
+</li>
+</ol>
 <hr />
+
 
 <strong>Books:</strong>
 <ol>
 <li><strong>The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens</strong><br>Sultan A. Alharthi, Zachary O. Toups, Olaa Alsaedi, Joshua Tanenbaum, &amp; Jessica Hammer. 2018. The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens<i>. Pittsburgh, PA: Carnegie Mellon University: ETC Press. </i>[ <a href="http://press.etc.cmu.edu/index.php/product/the-pleasure-of-playing-less/" style="color:black">full text</a> ]
 
+
+</li>
+</ol>
 <hr />
+
 
 <strong>Workshops:</strong>
 <ol>
@@ -99,5 +107,6 @@ author_profile: false
 
 <strong>Re-build-ing Boundaries: The Roles of Boundaries in Mixed Reality Play</strong><br>Sultan A. Alharthi, and Zachary O. Toups. 2018. Re-build-ing Boundaries: The Roles of Boundaries in Mixed Reality Play. In HCI Outdoors Workshop at CHI 2018, Montréal, Québec, Canada. [ <a href="https://dept-wp.nmsu.edu/pixl/files/2018/05/HCI_Outdoors_Workshop.pdf" style="color:black">full text</a> ]
 
+</li>
+</ol>
 <hr />
-
