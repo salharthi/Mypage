@@ -19,7 +19,7 @@ author_profile: false
 
 <hr />
 <br>
-<strong>Conferences:</strong>
+<strong>Full Conference Papers:</strong>
 <ol>
  	<li><strong>Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?</strong><br>Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2019. Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?. To appear in <em>Proceedings of the 2019 Collective Intelligence Conference (CI '19)</em>. ACM, New York, NY, USA.</li>
  	<li>
@@ -66,11 +66,6 @@ author_profile: false
 
 <hr />
 
-<strong>The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces</strong><br>Sultan A. Alharthi, Ruth Torres, Ahmed Khalaf, and Zachary O. Toups. 2017. The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces. In <em>Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '17 Extended Abstracts)</em>. 615--620. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2017:MEC:3130859.3130864" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3130859.3130864" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N40170" style="color:black">full text via authorizer</a> ]</li>
- 	<li>
-
-<hr />
-
 <strong>A Framework Supporting Selecting Space to Make Place in Spatial Mixed Reality Play</strong><br>Hitesh Nidhi Sharma, Sultan A. Alharthi, Igor Dolgov, and Zachary O. Toups. 2017. A Framework Supporting Selecting Space to Make Place in Spatial Mixed Reality Play. In <em>Proceedings of the Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '17)</em>. 83--100. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Sharma:2017:FSS:3116595.3116612" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3116595.3116612" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N40172" style="color:black">full text via authorizer</a> ]</li>
  	<li>
 
@@ -82,6 +77,19 @@ author_profile: false
 </li>
 </ol>
 <hr />
+
+<strong>Extended Abstracts:</strong>
+<ol>
+<strong>The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces</strong><br>Sultan A. Alharthi, Ruth Torres, Ahmed Khalaf, and Zachary O. Toups. 2017. The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces. In <em>Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '17 Extended Abstracts)</em>. 615--620. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2017:MEC:3130859.3130864" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3130859.3130864" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N40170" style="color:black">full text via authorizer</a> ]</li>
+ 	<li>
+
+<hr />
+
+
+</li>
+</ol>
+<hr />
+
 <strong>Books:</strong>
 <ol>
  	<li><strong>The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens</strong><br>Sultan A. Alharthi, Zachary O. Toups, Olaa Alsaedi, Joshua Tanenbaum, &amp; Jessica Hammer. 2018. The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens<i>. Pittsburgh, PA: Carnegie Mellon University: ETC Press. </i>[ <a href="http://press.etc.cmu.edu/index.php/product/the-pleasure-of-playing-less/" style="color:black">full text</a> ]
