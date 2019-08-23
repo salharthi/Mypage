@@ -26,3 +26,7 @@ redirect_from:
 <p style="line-height:140%"><strong>Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?</strong><br>Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2019 (in press). Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?. To appear in <em>Proceedings of the 2019 ACM Collective Intelligence Conference (CI '19)</em>. <br>
 
 <hr />
+
+<strong>RECENT NEWS:</strong> <br> 
+
+<hr />
