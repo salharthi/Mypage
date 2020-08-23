@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Sultan A. Alharthi"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "Assistant Professor, Department of Software Engineering, University of Jeddah"
 url                      : https://salharthi.github.io/Mypage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -87,6 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rqLNHCIAAAAJ&hl=en"
+  email            : "saalharthi8@uj.edu.sa"
   email            : "sultan.alharthi@acm.org"
   researchgate     : "https://www.researchgate.net/profile/Sultan_Alharthi2"
   uri              :
