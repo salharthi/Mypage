@@ -14,10 +14,11 @@ author_profile: false
 
 <li><strong>Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay</strong><br> Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2021. Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay. To appear in <em>Proceedings of ACM Transactions on Computer-Human Interaction (ToCHI)</em>.
 
+
 <li><strong>Developing Future Wearable Interfaces for Human-Drone Teams through a Virtual Drone Search Game</strong><br>Marlena R. Fraune, Ahmed S. Khalaf, Mahlet Zemedie, Poom Pianpak, Zahra NaminiMianji, Sultan A. Alharthi, Igor Dolgov, Bill Hamilton, Son Tran, Z O. Toups. 2020. Developing Future Wearable Interfaces for Human-Drone Teams through a Virtual Drone Search Game. To appear in <em>Proceedings of the International Journal of Human-Computer Studies(IJHCS)</em>.
 
-<li><strong>Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces</strong><br>Z O. Toups, Nick LaLone,Sultan A. Alharthi, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. In <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>.
 
+<li><strong>Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces</strong><br>Z O. Toups, Nick LaLone,Sultan A. Alharthi, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. In <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>.
  <hr />
 
 <strong>Full Conference Papers:</strong>
