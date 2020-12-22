@@ -27,8 +27,21 @@ author_profile: false
 <strong>Full Conference Papers:</strong>
 
 <ol>
- 
+
+
 <li><strong>An Activity Theory Analysis of Search & Rescue Collective Sensemaking and Planning Practices</strong><br>Sultan A. Alharthi, Nick LaLone, Hitesh Nidhi Sharma, Igor Dolgov, Z O. Toups. 2021. An Activity Theory Analysis of Search & Rescue Collective Sensemaking and Planning Practices. To appear in <em>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems(CHI'21)</em>.</li>
+<li>
+ 
+<strong>A Comparative Study of Hand-Gesture Recognition Devices for Games.</strong><br>Ahmed S. Khalaf, Sultan A. Alharthi, Ali Alshehri, Igor Dolgov, Z O. Toups. 2020. A Comparative Study of Hand-Gesture Recognition Devices for Games. In <em>International Conference on Human-Computer Interaction</em>.</li>
+<li>
+ 
+<strong>A Framework of Input Devices to Support Designing Composite Wearable Computers</strong><br>Ahmed S. Khalaf, Sultan A. Alharthi, Bill Hamilton, Igor Dolgov, Son Tran, Z O. Toups. 2020. A Framework of Input Devices to Support Designing Composite Wearable Computers. In <em>International Conference on Human-Computer Interaction</em>.</li>
+<li>
+ 
+<strong>A Vision of Augmented Reality for Urban Search and Rescue</strong><br>Nick LaLone, Sultan A. Alharthi, Z O. Toups. 2019. A Vision of Augmented Reality for Urban Search and Rescue. In <em>Proceedings of the ACM Halfway to the Future Symposium</em>.</li>
+<li> 
+ 
+<strong>It Started as a Joke: On the Design of Idle Games</strong><br>Katta Spiel, Sultan A. Alharthi, Andrew Jian-lan Cen, Jessica Hammer, Lennart E. Nacke, Z O. Toups, Theresa Tanenbaum. 2019. It Started as a Joke: On the Design of Idle Games. In <em>Proceedings of the ACM Annual Symposium on Computer-Human Interaction in Play (CHI PLAY'19)</em>.</li>
 <li>
  
 <strong>Investigating the Impact of Annotation Interfaces on Player Performance in Distributed Multiplayer Games</strong><br>Sultan A. Alharthi, Ruth C. Torres, Ahmed S. Khalaf, Z O. Toups, Igor Dolgov, and Lennart E. Nacke. 2018. Investigating the Impact of Annotation Interfaces on Player Performance in Distributed Multiplayer Games. In <em>Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems</em> <em>(CHI '18)</em>. Article 314, 13 pages. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2018:IIA:3173574.3173888" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3173574.3173888" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N652628" style="color:black">full text via authorizer</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/02/planning.pdf" style="color:black">full text</a> ]</li>
