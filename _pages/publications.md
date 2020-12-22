@@ -105,6 +105,5 @@ author_profile: false
 
 <strong>Re-build-ing Boundaries: The Roles of Boundaries in Mixed Reality Play</strong><br>Sultan A. Alharthi, and Z O. Toups. 2018. Re-build-ing Boundaries: The Roles of Boundaries in Mixed Reality Play. In HCI Outdoors Workshop at CHI 2018, Montréal, Québec, Canada. [ <a href="https://dept-wp.nmsu.edu/pixl/files/2018/05/HCI_Outdoors_Workshop.pdf" style="color:black">full text</a> ]</li>
 
-</li>
 </ol>
 <hr />
