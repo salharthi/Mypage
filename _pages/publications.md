@@ -94,7 +94,7 @@ author_profile: false
 <li><strong>An Activity Theory Analysis of Search & Rescue Collective Sensemaking and Planning Practices</strong><br>Sultan A. Alharthi, Nick LaLone, Hitesh Nidhi Sharma, Igor Dolgov, Z O. Toups. 2021. An Activity Theory Analysis of Search & Rescue Collective Sensemaking and Planning Practices. To appear in <em>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems(CHI'21)</em>.</li>
 <li>
  
-<li><strong>The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens</strong><br>Sultan A. Alharthi, Z O. Toups, Olaa Alsaedi, Theresa Tanenbaum, &amp; Jessica Hammer. 2018. The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens<i>. Pittsburgh, PA: Carnegie Mellon University: ETC Press. </i>[ <a href="http://press.etc.cmu.edu/index.php/product/the-pleasure-of-playing-less/" style="color:black">full text</a>]</li>
+<strong>The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens</strong><br>Sultan A. Alharthi, Z O. Toups, Olaa Alsaedi, Theresa Tanenbaum, &amp; Jessica Hammer. 2018. The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens<i>. Pittsburgh, PA: Carnegie Mellon University: ETC Press. </i>[ <a href="http://press.etc.cmu.edu/index.php/product/the-pleasure-of-playing-less/" style="color:black">full text</a>]</li>
 <li>
  
 <strong>Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces</strong><br>Z O. Toups, Nick LaLone,Sultan A. Alharthi, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. In <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>.</li>
