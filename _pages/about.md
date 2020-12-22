@@ -10,7 +10,7 @@ redirect_from:
   
 <font size="-1">
 
-<p style="line-height:140%">I am a Human-Computer Interaction researcher. My research lies at the intersection of HCI, CSCW, and Game Design. I investigate the ways people engage in social activities in physical, virtual, and mixed spaces, such as distributed multiplayer games, online learning environments, and disaster response training simulations. My work explores new approaches to support collective sensemaking, planning, team awareness, and communication in distributed environments. I incorporate fieldwork and observation to understand existing contexts and practices; design novel collaboration interfaces and game mechanics; and test these designs through mixed methods studies in the lab and in the field.</p>
+<p style="line-height:140%">I am a Human-Computer Interaction researcher and an Assistant Professor of Software Engineering at the University of Jeddah. My research lies at the intersection of HCI, CSCW, and Game Design. I investigate the ways people engage in social activities in physical, virtual, and mixed spaces, such as distributed multiplayer games, human-drone teams, online learning environments, and disaster response training simulations. My work explores new approaches to support collective sensemaking, planning, team awareness, and communication in distributed environments. I incorporate fieldwork and observation to understand existing contexts and practices; design novel collaboration interfaces and game mechanics; and test these designs through mixed methods studies in the lab and in the field.</p>
 
 <hr />
 
@@ -21,12 +21,11 @@ redirect_from:
 <strong>RECENT PUBLICATIONS:</strong> <br> 
 (see <a href="https://salharthi.github.io/Mypage/publications/" style="color:black">Publications</a> for a full list) <br><br>
 
+<p style="line-height:140%"><strong>Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay</strong><br> Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2021. Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay. In <em>Proceedings of ACM Transactions on Computer-Human Interaction (ToCHI)</em>. <br><br>
+
 <p style="line-height:140%"><strong>Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces</strong><br> Z O. Toups, Nick LaLone, Sultan A. Alharthi, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. In <em>Proceedings of ACM Transactions on Computer-Human Interaction (ToCHI)</em>. <br><br>
 
-<p style="line-height:140%"><strong>"It Started as a Joke": On the Design of Idle Games</strong><br> Katta Spiel, Sultan A. Alharthi, Andrew Jian-lan Cen, Jessica Hammer, Lennart E. Nacke, Z O. Toups, and Tess Tanenbaum. 2019. "It Started as a Joke": On the Design of Idle Games. In <em>Proceedings of the Annual Symposium on Computer-Human Interaction in Play</em> (CHI PLAY '19). Association for Computing Machinery, New York, NY, USA, 495–508. <a href="http://doi.org/10.1145/3311350.3347180" style="color:black">doi</a>. <br><br>
-
-
-<p style="line-height:140%"><strong>Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?</strong><br>Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2019. Do Cognitive Styles Influence Collective Sensemaking in Distributed Multiplayer Games?. In <em>Proceedings of the 2019 ACM Collective Intelligence Conference (CI '19)</em>. <br>
+<p style="line-height:140%"><strong>Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces</strong><br> Z O. Toups, Nick LaLone, Sultan A. Alharthi, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. In <em>Proceedings of ACM Transactions on Computer-Human Interaction (ToCHI)</em>. <br><br>
 
 <hr />
 
