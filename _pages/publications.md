@@ -22,6 +22,8 @@ author_profile: false
 
 </ol>
 
+<hr />
+
 <strong>Full Conference Papers:</strong>
 
 <ol>
@@ -42,24 +44,26 @@ author_profile: false
 
 
 <strong>Designing Future Disaster Response Team Wearables from a Grounding in Practice</strong><br>Sultan A. Alharthi, Hitesh Nidhi Sharma, Sachin Sunka, Igor Dolgov, and Zachary O. Toups. 2018. Designing Future Disaster Response Team Wearables from a Grounding in Practice. In <em>Proceedings of APA Technology, Mind, and Society (TechMindSociety '18).</em> Article 1, 6 pages. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2018:DFD:3183654.3183662" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3183654.3183662" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N652626" style="color:black">full text via authorizer</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/02/2018_TMS_Icehouse.pdf" style="color:black">full text</a> ]</li>
- 	<li>
+<li>
 
 
 <strong>Practical Insights into the Design of Future Disaster Response Training Simulations</strong><br>Sultan A. Alharthi, Nick LaLone, Ahmed S. Khalaf, Ruth Torres, Lennart Nacke, Igor Dolgov, and Zachary O. Toups. 2018. Practical Insights into the Design of Future Disaster Response Training Simulations. In <em>ISCRAM 2018 Conference Proceedings -- 15th International Conference on Information Systems for Crisis Response and Management</em>, Kees Boersma and Brian Tomaszeski (Eds.). 818--830. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2018aa" style="color:black">bib</a> | <a href="http://idl.iscram.org/files/sultanaalharthi/2018/1602_SultanA.Alharthi_etal2018.pdf" style="color:black">full text</a> ]</li>
- 	<li>
+<li>
 
 
 <strong>An Architecture for Simulating Drones in Mixed Reality Games to Explore Future Search and Rescue Scenarios</strong><br>Ahmed S. Khalaf, Poom Pianpak, Sultan A. Alharthi, Zahra NaminiMianji, Ruth Torres, Son Tran, Igor Dolgov, and Zachary O. Toups. 2018. An Architecture for Simulating Drones in Mixed Reality Games to Explore Future Search and Rescue Scenarios. In<em> ISCRAM 2018 Conference Proceedings -- 15th International Conference on Information Systems for Crisis Response and Management, </em>Kees Boersma and Brian Tomaszeski (Eds.). 971--982. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Khalaf:2018aa" style="color:black">bib</a> | <a href="http://idl.iscram.org/files/ahmedskhalaf/2018/1617_AhmedS.Khalaf_etal2018.pdf" style="color:black">full text</a> ]</li>
- 	<li>
+<li>
 
 
 <strong>A Framework Supporting Selecting Space to Make Place in Spatial Mixed Reality Play</strong><br>Hitesh Nidhi Sharma, Sultan A. Alharthi, Igor Dolgov, and Zachary O. Toups. 2017. A Framework Supporting Selecting Space to Make Place in Spatial Mixed Reality Play. In <em>Proceedings of the Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '17)</em>. 83--100. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Sharma:2017:FSS:3116595.3116612" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3116595.3116612" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N40172" style="color:black">full text via authorizer</a> ]</li>
- 	<li>
+<li>
 
 
 <strong>Playing at Planning: Game Design Patterns from Disaster Response Practice</strong><br>Zachary O. Toups, William A. Hamilton, and Sultan A. Alharthi. 2016. Playing at Planning: Game Design Patterns from Disaster Response Practice. In <em>Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '16)</em>. 362--375. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Toups:2016:PPG:2967934.2968089" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/2967934.2968089" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N20860" style="color:black">full text via authorizer</a> ]
 
- <hr />
+</ol>
+
+<hr />
 
 <strong>Extended Abstracts:</strong>
 
@@ -78,7 +82,9 @@ author_profile: false
 
 <strong>The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces</strong><br>Sultan A. Alharthi, Ruth Torres, Ahmed Khalaf, and Zachary O. Toups. 2017. The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces. In <em>Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '17 Extended Abstracts)</em>. 615--620. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2017:MEC:3130859.3130864" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3130859.3130864" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N40170" style="color:black">full text via authorizer</a> ]
 
-</li>
+</ol>
+
+<hr />
 
 <strong>Books:</strong>
 
@@ -86,6 +92,8 @@ author_profile: false
  
 <li><strong>The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens</strong><br>Sultan A. Alharthi, Zachary O. Toups, Olaa Alsaedi, Joshua Tanenbaum, &amp; Jessica Hammer. 2018. The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens<i>. Pittsburgh, PA: Carnegie Mellon University: ETC Press. </i>[ <a href="http://press.etc.cmu.edu/index.php/product/the-pleasure-of-playing-less/" style="color:black">full text</a> ]
  
+</ol>
+
 <hr />
 
 <strong>Workshops:</strong>
