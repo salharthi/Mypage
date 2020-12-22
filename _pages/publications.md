@@ -91,6 +91,7 @@ author_profile: false
 <ol>
  
 <li><strong>The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens</strong><br>Sultan A. Alharthi, Z O. Toups, Olaa Alsaedi, Theresa Tanenbaum, &amp; Jessica Hammer. 2018. The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens<i>. Pittsburgh, PA: Carnegie Mellon University: ETC Press. </i>[ <a href="http://press.etc.cmu.edu/index.php/product/the-pleasure-of-playing-less/" style="color:black">full text</a> ]</li>
+<li><li>
  
 </ol>
 
