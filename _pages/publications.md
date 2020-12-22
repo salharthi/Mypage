@@ -90,13 +90,10 @@ author_profile: false
 <hr />
 
 <strong>Workshops:</strong>
-
-<ol>
  
 <li><strong>Collaborative Mixed Reality Games</strong><br>Sultan A. Alharthi, Katta Spiel, William A. Hamilton, Elizabeth Bonsignore, and Z O. Toups. 2018. Collaborative Mixed Reality Games. In <em>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '18 Companion)</em>. ACM, New York, NY, USA. [ <a href="https://doi.org/10.1145/3272973.3273013" style="color:black">doi</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/09/MixedReality.pdf" style="color:black">full text</a>]</li>
 <li>
 
 <strong>Re-build-ing Boundaries: The Roles of Boundaries in Mixed Reality Play</strong><br>Sultan A. Alharthi, and Z O. Toups. 2018. Re-build-ing Boundaries: The Roles of Boundaries in Mixed Reality Play. In HCI Outdoors Workshop at CHI 2018, Montréal, Québec, Canada. [ <a href="https://dept-wp.nmsu.edu/pixl/files/2018/05/HCI_Outdoors_Workshop.pdf" style="color:black">full text</a> ]</li>
 
-</ol>
 <hr />
