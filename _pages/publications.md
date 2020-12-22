@@ -59,7 +59,7 @@ author_profile: false
 <li>
 
 
-<strong>Playing at Planning: Game Design Patterns from Disaster Response Practice</strong><br>Zachary O. Toups, William A. Hamilton, and Sultan A. Alharthi. 2016. Playing at Planning: Game Design Patterns from Disaster Response Practice. In <em>Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '16)</em>. 362--375. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Toups:2016:PPG:2967934.2968089" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/2967934.2968089" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N20860" style="color:black">full text via authorizer</a> ]
+<strong>Playing at Planning: Game Design Patterns from Disaster Response Practice</strong><br>Zachary O. Toups, William A. Hamilton, and Sultan A. Alharthi. 2016. Playing at Planning: Game Design Patterns from Disaster Response Practice. In <em>Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '16)</em>. 362--375. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Toups:2016:PPG:2967934.2968089" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/2967934.2968089" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N20860" style="color:black">full text via authorizer</a> ]</li>
 
 </ol>
 
@@ -80,7 +80,7 @@ author_profile: false
 <li>
 
 
-<strong>The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces</strong><br>Sultan A. Alharthi, Ruth Torres, Ahmed Khalaf, and Zachary O. Toups. 2017. The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces. In <em>Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '17 Extended Abstracts)</em>. 615--620. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2017:MEC:3130859.3130864" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3130859.3130864" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N40170" style="color:black">full text via authorizer</a> ]
+<strong>The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces</strong><br>Sultan A. Alharthi, Ruth Torres, Ahmed Khalaf, and Zachary O. Toups. 2017. The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces. In <em>Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '17 Extended Abstracts)</em>. 615--620. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2017:MEC:3130859.3130864" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3130859.3130864" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N40170" style="color:black">full text via authorizer</a> ]</li>
 
 </ol>
 
@@ -90,7 +90,7 @@ author_profile: false
 
 <ol>
  
-<li><strong>The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens</strong><br>Sultan A. Alharthi, Zachary O. Toups, Olaa Alsaedi, Joshua Tanenbaum, &amp; Jessica Hammer. 2018. The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens<i>. Pittsburgh, PA: Carnegie Mellon University: ETC Press. </i>[ <a href="http://press.etc.cmu.edu/index.php/product/the-pleasure-of-playing-less/" style="color:black">full text</a> ]
+<li><strong>The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens</strong><br>Sultan A. Alharthi, Zachary O. Toups, Olaa Alsaedi, Joshua Tanenbaum, &amp; Jessica Hammer. 2018. The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens<i>. Pittsburgh, PA: Carnegie Mellon University: ETC Press. </i>[ <a href="http://press.etc.cmu.edu/index.php/product/the-pleasure-of-playing-less/" style="color:black">full text</a> ]</li>
  
 </ol>
 
@@ -103,7 +103,7 @@ author_profile: false
 <li><strong>Collaborative Mixed Reality Games</strong><br>Sultan A. Alharthi, Katta Spiel, William A. Hamilton, Elizabeth Bonsignore, and Zachary O. Toups. 2018. Collaborative Mixed Reality Games. In <em>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '18 Companion)</em>. ACM, New York, NY, USA. [ <a href="https://doi.org/10.1145/3272973.3273013" style="color:black">doi</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/09/MixedReality.pdf" style="color:black">full text</a>]</li>
 <li>
 
-<strong>Re-build-ing Boundaries: The Roles of Boundaries in Mixed Reality Play</strong><br>Sultan A. Alharthi, and Zachary O. Toups. 2018. Re-build-ing Boundaries: The Roles of Boundaries in Mixed Reality Play. In HCI Outdoors Workshop at CHI 2018, Montréal, Québec, Canada. [ <a href="https://dept-wp.nmsu.edu/pixl/files/2018/05/HCI_Outdoors_Workshop.pdf" style="color:black">full text</a> ]
+<strong>Re-build-ing Boundaries: The Roles of Boundaries in Mixed Reality Play</strong><br>Sultan A. Alharthi, and Zachary O. Toups. 2018. Re-build-ing Boundaries: The Roles of Boundaries in Mixed Reality Play. In HCI Outdoors Workshop at CHI 2018, Montréal, Québec, Canada. [ <a href="https://dept-wp.nmsu.edu/pixl/files/2018/05/HCI_Outdoors_Workshop.pdf" style="color:black">full text</a> ]</li>
 
 </li>
 </ol>
