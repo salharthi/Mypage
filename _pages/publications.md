@@ -35,7 +35,7 @@ author_profile: false
 <li>
  
 
-<strong>Playing to Wait: A Taxonomy of Idle Games</strong><br>Sultan A. Alharthi, Olaa Alsaedi, Z O. Toups, Joshua Tanenbaum, and Jessica Hammer. 2018. Playing to Wait: A Taxonomy of Idle Games. In <em> Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems</em> <em>(CHI '18)</em>. Article 621, 15 pages. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2018:PWT:3173574.3174195" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3173574.3174195" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N652620" style="color:black">full text via authorizer</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/02/2018-chi-idle.pdf" style="color:black">full text</a> ]</li>
+<strong>Playing to Wait: A Taxonomy of Idle Games</strong><br>Sultan A. Alharthi, Olaa Alsaedi, Z O. Toups, Theresa Tanenbaum, and Jessica Hammer. 2018. Playing to Wait: A Taxonomy of Idle Games. In <em> Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems</em> <em>(CHI '18)</em>. Article 621, 15 pages. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2018:PWT:3173574.3174195" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3173574.3174195" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N652620" style="color:black">full text via authorizer</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/02/2018-chi-idle.pdf" style="color:black">full text</a> ]</li>
 <li>
 
 
@@ -90,7 +90,7 @@ author_profile: false
 
 <ol>
  
-<li><strong>The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens</strong><br>Sultan A. Alharthi, Z O. Toups, Olaa Alsaedi, Joshua Tanenbaum, &amp; Jessica Hammer. 2018. The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens<i>. Pittsburgh, PA: Carnegie Mellon University: ETC Press. </i>[ <a href="http://press.etc.cmu.edu/index.php/product/the-pleasure-of-playing-less/" style="color:black">full text</a> ]</li>
+<li><strong>The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens</strong><br>Sultan A. Alharthi, Z O. Toups, Olaa Alsaedi, Theresa Tanenbaum, &amp; Jessica Hammer. 2018. The Pleasure of Playing Less: A Study of Incremental Games through the Lens of Kittens<i>. Pittsburgh, PA: Carnegie Mellon University: ETC Press. </i>[ <a href="http://press.etc.cmu.edu/index.php/product/the-pleasure-of-playing-less/" style="color:black">full text</a> ]</li>
  
 </ol>
 
