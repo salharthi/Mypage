@@ -20,7 +20,6 @@ author_profile: false
 
 
 </li>
-</ol>
 
 <hr />
 <br>
