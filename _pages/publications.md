@@ -11,7 +11,12 @@ author_profile: false
 <strong>Journals:</strong>
 
 <ol>
- 	<li><strong>Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces</strong><br>Z O. Toups, Nick LaLone,Sultan A. Alharthi, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. To appear in <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>.
+
+<li><strong>Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay</strong><br> Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2021. Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay. To appear in <em>Proceedings of ACM Transactions on Computer-Human Interaction (ToCHI)</em>.
+
+<li><strong>Developing Future Wearable Interfaces for Human-Drone Teams through a Virtual Drone Search Game</strong><br>Marlena R. Fraune, Ahmed S. Khalaf, Mahlet Zemedie, Poom Pianpak, Zahra NaminiMianji, Sultan A. Alharthi, Igor Dolgov, Bill Hamilton, Son Tran, Z O. Toups. 2020. Developing Future Wearable Interfaces for Human-Drone Teams through a Virtual Drone Search Game. To appear in <em>Proceedings of the International Journal of Human-Computer Studies(IJHCS)</em>.
+
+<li><strong>Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces</strong><br>Z O. Toups, Nick LaLone,Sultan A. Alharthi, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. In <em>ACM Transactions on Computer-Human Interaction (ToCHI)</em>.
 
 
 </li>
@@ -21,6 +26,8 @@ author_profile: false
 <br>
 <strong>Full Conference Papers:</strong>
 <ol>
+ 
+<li><strong>An Activity Theory Analysis of Search & Rescue Collective Sensemaking and Planning Practices</strong><br>Sultan A. Alharthi, Nick LaLone, Hitesh Nidhi Sharma, Igor Dolgov, Z O. Toups. 2021. An Activity Theory Analysis of Search & Rescue Collective Sensemaking and Planning Practices. To appear in <em>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems(CHI'21)</em>.
  
 <li><strong>Investigating the Impact of Annotation Interfaces on Player Performance in Distributed Multiplayer Games</strong><br>Sultan A. Alharthi, Ruth C. Torres, Ahmed S. Khalaf, Zachary O. Toups, Igor Dolgov, and Lennart E. Nacke. 2018. Investigating the Impact of Annotation Interfaces on Player Performance in Distributed Multiplayer Games. In <em>Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems</em> <em>(CHI '18)</em>. Article 314, 13 pages. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2018:IIA:3173574.3173888" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3173574.3173888" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N652628" style="color:black">full text via authorizer</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/02/planning.pdf" style="color:black">full text</a> ]</li>
 <li>
