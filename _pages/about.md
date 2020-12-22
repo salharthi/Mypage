@@ -19,7 +19,7 @@ redirect_from:
 <hr />
 
 <strong>RECENT PUBLICATIONS:</strong> <br>
-(see <a href="https://salharthi.github.io/Mypage/publications/" style="color:black">Publications</a> for a full list Or <a href="https://scholar.google.com/citations?user=rqLNHCIAAAAJ&hl=en" style="color:black">Google Scholar</a> ).
+(see <a href="https://salharthi.github.io/Mypage/publications/" style="color:black">Publications</a> for a full list Or <a href="https://scholar.google.com/citations?user=rqLNHCIAAAAJ&hl=en" style="color:black">Google Scholar</a>)
 
 <p style="line-height:140%"><strong>Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay</strong><br> Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2021. Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay. In <em>Proceedings of ACM Transactions on Computer-Human Interaction (ToCHI)</em>. <br><br>
 
