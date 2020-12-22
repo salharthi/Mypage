@@ -27,7 +27,10 @@ author_profile: false
 <strong>Full Conference Papers:</strong>
 <ol>
  
-<li><strong>An Activity Theory Analysis of Search & Rescue Collective Sensemaking and Planning Practices</strong><br>Sultan A. Alharthi, Nick LaLone, Hitesh Nidhi Sharma, Igor Dolgov, Z O. Toups. 2021. An Activity Theory Analysis of Search & Rescue Collective Sensemaking and Planning Practices. To appear in <em>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems(CHI'21)</em>.
+<li><strong>An Activity Theory Analysis of Search & Rescue Collective Sensemaking and Planning Practices</strong><br>Sultan A. Alharthi, Nick LaLone, Hitesh Nidhi Sharma, Igor Dolgov, Z O. Toups. 2021. An Activity Theory Analysis of Search & Rescue Collective Sensemaking and Planning Practices. To appear in <em>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems(CHI'21)</em>.</li>
+ <li>
+ 
+ <hr />
  
 <li><strong>Investigating the Impact of Annotation Interfaces on Player Performance in Distributed Multiplayer Games</strong><br>Sultan A. Alharthi, Ruth C. Torres, Ahmed S. Khalaf, Zachary O. Toups, Igor Dolgov, and Lennart E. Nacke. 2018. Investigating the Impact of Annotation Interfaces on Player Performance in Distributed Multiplayer Games. In <em>Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems</em> <em>(CHI '18)</em>. Article 314, 13 pages. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2018:IIA:3173574.3173888" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3173574.3173888" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N652628" style="color:black">full text via authorizer</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/02/planning.pdf" style="color:black">full text</a> ]</li>
 <li>
