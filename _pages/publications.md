@@ -74,13 +74,15 @@ author_profile: false
 
 
 <strong>Mapping in the Wild: Toward Designing to Train Search &amp; Rescue Planning</strong><br>Sultan A. Alharthi, William A. Hamilton, Igor Dolgov, and Z O. Toups. 2018. Mapping in the Wild: Toward Designing to Train Search &amp; Rescue Planning. In <em>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '18 Companion)</em>. ACM. [ <a href="https://doi.org/10.1145/3272973.3274039" style="color:black">doi</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/10/Mapping.pdf" style="color:black">full text</a>]
-
-
-<li><strong>Toward Understanding the Effects of Cognitive Styles on Collaboration in Multiplayer Games</strong><br>Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2018. Toward Understanding the Effects of Cognitive Styles on Collaboration in Multiplayer Games. In <em>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '18 Companion)</em>. ACM, New York, NY, USA. [ <a href="https://doi.org/10.1145/3272973.3274047" style="color:black">doi</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/10/CognitiveStyles.pdf" style="color:black">full text</a>]</li>
+<li>
+ 
+<strong>Toward Understanding the Effects of Cognitive Styles on Collaboration in Multiplayer Games</strong><br>Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2018. Toward Understanding the Effects of Cognitive Styles on Collaboration in Multiplayer Games. In <em>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '18 Companion)</em>. ACM, New York, NY, USA. [ <a href="https://doi.org/10.1145/3272973.3274047" style="color:black">doi</a> | <a href="https://dept-wp.nmsu.edu/pixl/files/2018/10/CognitiveStyles.pdf" style="color:black">full text</a>]</li>
 <li>
 
 
 <strong>The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces</strong><br>Sultan A. Alharthi, Ruth Torres, Ahmed Khalaf, and Z O. Toups. 2017. The Maze: Enabling Collaborative Planning in Games Through Annotation Interfaces. In <em>Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play</em> <em>(CHI PLAY '17 Extended Abstracts)</em>. 615--620. [ <a href="https://pixl.nmsu.edu/pixl-pubs-bibtex/#Alharthi:2017:MEC:3130859.3130864" style="color:black">bib</a> | <a href="http://dx.doi.org/10.1145/3130859.3130864" style="color:black">doi</a> | <a href="https://dl.acm.org/authorize?N40170" style="color:black">full text via authorizer</a> ]</li>
+
+</ol>
 
 <hr />
 
