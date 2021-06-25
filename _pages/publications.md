@@ -12,7 +12,7 @@ author_profile: false
 
 <ol>
 
-<li><strong>Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay</strong><br> Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2021. Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay. To appear in <em>Proceedings of ACM Transactions on Computer-Human Interaction (ToCHI)</em>. <a href="https://dl.acm.org/authorize?N652628" style="color:black">full text</a>.</li>
+<li><strong>Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay</strong><br> Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Z O. Toups. 2021. Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay. To appear in <em>Proceedings of ACM Transactions on Computer-Human Interaction (ToCHI)</em>. <a href="https://salharthi.github.io/Mypage/files/2021_TOCHI_Cognitive_Styles_Preprint.pdf" style="color:black">full text</a>.</li>
 <li>
  
 <strong>Developing Future Wearable Interfaces for Human-Drone Teams through a Virtual Drone Search Game</strong><br>Marlena R. Fraune, Ahmed S. Khalaf, Mahlet Zemedie, Poom Pianpak, Zahra NaminiMianji, Sultan A. Alharthi, Igor Dolgov, Bill Hamilton, Son Tran, Z O. Toups. 2020. Developing Future Wearable Interfaces for Human-Drone Teams through a Virtual Drone Search Game. To appear in <em>Proceedings of the International Journal of Human-Computer Studies(IJHCS)</em>.</li>
