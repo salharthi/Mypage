@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: false
 ---
 
+<a href="https://scholar.google.com/citations?user=rqLNHCIAAAAJ&hl=en" style="color:black">Google Scholar</a>)
+
+<br>
+
 <font size="-1">
 <hr />
 
