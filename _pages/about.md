@@ -14,13 +14,13 @@ redirect_from:
 
 <hr />
 
-<p style="line-height:140%"><strong>Research Interest:</strong> game design, gamification, collaboration, mHealth, AI, mixed reality, <span class="lt-line-clamp__line lt-line-clamp__line--last">software learnability, learning systems, </span> player <span class="lt-line-clamp__line"> experience,</span> and <span class="lt-line-clamp__line lt-line-clamp__line--last">wearable technology.</span> (For a full list of my research publications <a href="https://scholar.google.com/citations?user=rqLNHCIAAAAJ&hl=en" style="color:black">Google Scholar</a>)
+<p style="line-height:140%"><strong>Research Interest:</strong> game design, gamification, collaboration, mHealth, AI, mixed reality, <span class="lt-line-clamp__line lt-line-clamp__line--last">software learnability, learning systems, </span> player <span class="lt-line-clamp__line"> experience,</span> and <span class="lt-line-clamp__line lt-line-clamp__line--last">wearable technology.</span> 
 
-<hr>
+<hr />
 
 <h2>Research Collaboration Network</h2>
-
 <hr>
+(For a full list of my research publications please check my <a href="https://scholar.google.com/citations?user=rqLNHCIAAAAJ&hl=en" style="color:black">Google Scholar.</a>)
 
 <iframe
   src="https://salharthi.github.io/Mypage/assets/css/network.html"
