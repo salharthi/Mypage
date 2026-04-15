@@ -20,6 +20,8 @@ redirect_from:
 
 <p style="line-height:140%"><strong>My Research Collaboration Network</strong> 
 
+<hr />
+
 <iframe
   src="https://salharthi.github.io/Mypage/assets/css/network.html"
   width="100%"
