@@ -39,9 +39,13 @@ redirect_from:
 
 <h2>Research Collaboration Network</h2>
 
+<hr>
+
+<h2>Research Collaboration Network</h2>
+
 <iframe
-  src="{{ '/assets/css/network.html' | relative_url }}"
+  src="https://salharthi.github.io/Mypage/assets/css/network.html"
   width="100%"
-  height="900"
-  style="border:none; border-radius:16px;">
+  height="950"
+  style="border:none; border-radius:16px; overflow:hidden;">
 </iframe>
