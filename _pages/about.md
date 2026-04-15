@@ -34,3 +34,14 @@ redirect_from:
 <!-- <strong>RECENT NEWS:</strong> <br> -->
 
 <hr />
+
+<hr>
+
+<h2>Research Collaboration Network</h2>
+
+<iframe
+  src="{{ '/assets/css/network.html' | relative_url }}"
+  width="100%"
+  height="900"
+  style="border:none; border-radius:16px;">
+</iframe>
