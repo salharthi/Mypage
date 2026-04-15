@@ -14,34 +14,13 @@ redirect_from:
 
 <hr />
 
-<p style="line-height:140%"><strong>Research Interest:</strong> game design, gamification, collaboration, mHealth, AI, mixed reality, <span class="lt-line-clamp__line lt-line-clamp__line--last">software learnability, learning systems, </span> player <span class="lt-line-clamp__line"> experience,</span> and <span class="lt-line-clamp__line lt-line-clamp__line--last">wearable technology.</span>
-
-<hr />
-
-<strong>RECENT PUBLICATIONS:</strong> <br>
-(For a full list of my research publications <a href="https://scholar.google.com/citations?user=rqLNHCIAAAAJ&hl=en" style="color:black">Google Scholar</a>)
-
-
-<!-- <p style="line-height:140%"><strong>Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay</strong><br> Sultan A. Alharthi, George E. Raptis, Christina Katsini, Igor Dolgov, Lennart E. Nacke, and Phoebe O. Toups Dugas. 2021. Investigating the Effects of Individual Cognitive Styles on Collaborative Gameplay. In <em>Proceedings of ACM Transactions on Computer-Human Interaction (ToCHI)</em>. <br><br>-->
-
-
-<!-- <p style="line-height:140%"><strong>Developing Future Wearable Interfaces for Human-Drone Teams through a Virtual Drone Search Game</strong><br>Marlena R. Fraune, Ahmed S. Khalaf, Mahlet Zemedie, Poom Pianpak, Zahra NaminiMianji, Sultan A. Alharthi, Igor Dolgov, Bill Hamilton, Son Tran, Phoebe O. Toups Dugas. 2020. Developing Future Wearable Interfaces for Human-Drone Teams through a Virtual Drone Search Game. To appear in <em>Proceedings of the International Journal of Human-Computer Studies(IJHCS)</em>. <br><br>-->
-
-
-<!-- <p style="line-height:140%"><strong>Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces</strong><br> Phoebe O. Toups Dugas, Nick LaLone, Sultan A. Alharthi, Hitesh Nidhi Sharma, and Andrew M. Webb. 2019. Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces. In <em>Proceedings of ACM Transactions on Computer-Human Interaction (ToCHI)</em>. <br><br>-->
-
-
-<!-- <strong>RECENT NEWS:</strong> <br> -->
-
-<hr />
+<p style="line-height:140%"><strong>Research Interest:</strong> game design, gamification, collaboration, mHealth, AI, mixed reality, <span class="lt-line-clamp__line lt-line-clamp__line--last">software learnability, learning systems, </span> player <span class="lt-line-clamp__line"> experience,</span> and <span class="lt-line-clamp__line lt-line-clamp__line--last">wearable technology.</span> (For a full list of my research publications <a href="https://scholar.google.com/citations?user=rqLNHCIAAAAJ&hl=en" style="color:black">Google Scholar</a>)
 
 <hr>
 
 <h2>Research Collaboration Network</h2>
 
 <hr>
-
-<h2>Research Collaboration Network</h2>
 
 <iframe
   src="https://salharthi.github.io/Mypage/assets/css/network.html"
