@@ -18,7 +18,7 @@ redirect_from:
 
 <hr />
 
-<h2>Research Collaboration Network</h2>
+<p style="line-height:140%"><strong>My Research Collaboration Network</strong> 
 
 <iframe
   src="https://salharthi.github.io/Mypage/assets/css/network.html"
